@@ -1,10 +1,9 @@
 package JAVA.D_Multithreading.doc.java.thread.thread_priority;
 
-public class MyRunnable  implements Runnable{
+public class MyRunnable implements Runnable {
     @Override
     public void run() {
-        for (int i = 0; i < 10;i++){
-            System.out.println(i);
-        }
+        Thread thread = Thread.currentThread();
+        System.out.println("Thread : " + thread.getName() + " Priority: " + thread.getPriority());
     }
 }
