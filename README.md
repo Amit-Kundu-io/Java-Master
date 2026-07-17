@@ -9,5 +9,5 @@
 
 - **Create Thread**
     - [Creating Threads.md](src/JAVA/D_Multithreading/java/create/Creating%20Threads.md)
-    - [Thread Life Cycle.md](jsrc/JAVA/D_Multithreading/java/create/Thread%20Life%20Cycle.md)
+    - [Thread Life Cycle.md](src/JAVA/D_Multithreading/java/create/Thread%20Life%20Cycle.md)
 
