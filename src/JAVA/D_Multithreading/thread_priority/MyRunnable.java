@@ -1,4 +1,4 @@
-package JAVA.D_Multithreading.java.thread_priority;
+package JAVA.D_Multithreading.thread_priority;
 
 public class MyRunnable implements Runnable {
     @Override
