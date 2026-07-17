@@ -1,4 +1,4 @@
-package JAVA.D_Multithreading.doc.java.thread.thread_priority;
+package JAVA.D_Multithreading.java.thread_priority;
 
 /**
  *Thread Priorities

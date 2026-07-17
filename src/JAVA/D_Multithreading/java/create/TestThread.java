@@ -1,4 +1,4 @@
-package JAVA.D_Multithreading.doc.java.thread.create;
+package JAVA.D_Multithreading.java.create;
 
 public class TestThread {
     public static void main(String[] args) {
