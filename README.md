@@ -17,7 +17,7 @@
 
 </details>
 
----
+<br>
 
 ## 📦 Collections
 
@@ -30,7 +30,7 @@
 
 </details>
 
----
+ <br>
 
 ## 🔤 Strings
 
