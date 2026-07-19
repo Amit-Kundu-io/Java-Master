@@ -17,6 +17,6 @@
 
 - - **Collections**
   - [Wrapper-Class-Boxing-Unboxing.md](src/JAVA/E_Collections/wrapper/Wrapper-Class-Boxing-Unboxing.md)
-  - [Java_Integer_Cache_And_Comparison.md](src/JAVA/E_Collections/wrapper/Wrapper-Class-Boxing-Unboxing.md)
+  - [Java_Integer_Cache_And_Comparison.md](src/JAVA/E_Collections/wrapper/Java_Integer_Cache_And_Comparison.md)
 
 
