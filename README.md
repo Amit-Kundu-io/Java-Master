@@ -8,11 +8,12 @@
 
 <details>
 <summary><b>📂 View Topics (4)</b></summary>
+<br>
 
 - 📄 [Multithreading](src/JAVA/D_Multithreading/Multithreading.md)
 - 📄 [Concurrent & Parallel Execution](src/JAVA/D_Multithreading/Concurrent_Parallel_Execution.md)
-- 📄 [Creating Threads](src/JAVA/D_Multithreading/create/Creating Threads.md)
-- 📄 [Thread Life Cycle](src/JAVA/D_Multithreading/create/Thread Life Cycle.md)
+- 📄 [Creating Threads](src/JAVA/D_Multithreading/create/Creating-Threads.md)
+- 📄 [Thread Life Cycle](src/JAVA/D_Multithreading/create/Thread-Life-Cycle.md)
 
 </details>
 
@@ -22,6 +23,7 @@
 
 <details>
 <summary><b>📂 Wrapper Classes (2)</b></summary>
+<br>
 
 - 📄 [Wrapper Class: Boxing & Unboxing](src/JAVA/E_Collections/wrapper/Wrapper-Class-Boxing-Unboxing.md)
 - 📄 [Integer Cache & Comparison](src/JAVA/E_Collections/wrapper/Java_Integer_Cache_And_Comparison.md)
